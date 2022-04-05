@@ -16,7 +16,8 @@ kemudian hasilnya
 ## 3.Mengatur Clearfix Element
 Tambahkan element div lainnya seteleah div3 seperti berikut
 Kemudian atur property clear pada CSS, seperti berikut
-![gambar 108](screenshot/Screenshot%20(108).png
+![Screenshot (108)](https://user-images.githubusercontent.com/101470912/161826017-4cf2dabd-fbf2-474d-a1b8-938cf5449afa.png)
+
 
 kemudian hasilnya
 ![gambar 109](screenshot/Screenshot%20(109).png
