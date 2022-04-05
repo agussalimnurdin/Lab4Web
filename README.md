@@ -20,65 +20,86 @@ Kemudian atur property clear pada CSS, seperti berikut
 
 
 kemudian hasilnya
-![gambar 109](screenshot/Screenshot%20(109).png
+![Screenshot (109)](https://user-images.githubusercontent.com/101470912/161826283-51182288-ae8b-4d89-9342-fbe1b3677903.png)
+
 
 # Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama 
 # home.html, dan file css dengan nama style.css.
 Kemudian tulis kode berikut.
-![gambar 110](screenshot/Screenshot%20(110).png
+![Screenshot (110)](https://user-images.githubusercontent.com/101470912/161826336-a95a95bf-a13a-4cef-a810-c7517d224cec.png)
+
 
 kemudian hasilnya
-![gambar 111](screenshot/Screenshot%20(111).png
+![Screenshot (111)](https://user-images.githubusercontent.com/101470912/161826386-d9c32bf0-11b2-4423-b1b0-ac9937640ab3.png)
+
 
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
-![gambar 114](screenshot/Screenshot%20(114).png
+![Screenshot (114)](https://user-images.githubusercontent.com/101470912/161826445-e96ff6d4-7716-471b-adec-6d9490bbe50d.png)
+
 
 kemudian hasilnya
-![gambar 115](screenshot/Screenshot%20(115).png
+![Screenshot (115)](https://user-images.githubusercontent.com/101470912/161826499-a6cbab4a-509c-4195-9230-7d7c935dce3d.png)
+
 
 ## Membuat Navigasi
 Kemudian selanjutnya mengatur navigasi.
-![gambar 116](screenshot/Screenshot%20(116).png
+![Screenshot (116)](https://user-images.githubusercontent.com/101470912/161826551-cd9d18e8-f72c-43c1-9bb1-c566515f7ef7.png)
+
 
 kemudian hasilnya
-![gambar 117](screenshot/Screenshot%20(117).png
+![Screenshot (117)](https://user-images.githubusercontent.com/101470912/161826622-65a437d9-a302-4aa8-8305-472dd38e0353.png)
+
 
 ## Membuat Hero Panel.
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
-![gambar 118](screenshot/Screenshot%20(118).png
+![Screenshot (118)](https://user-images.githubusercontent.com/101470912/161826676-ad3a0bef-1fd0-487c-a88a-e2b00bdda631.png)
+
 
 kemudian css
-![gambar 119](screenshot/Screenshot%20(119).png
+![Screenshot (119)](https://user-images.githubusercontent.com/101470912/161826703-56371d11-ad17-46d0-b841-ca7717ded583.png)
+
 
 kemudian hasilnya
-![gambar 120](screenshot/Screenshot%20(120).png
+![Screenshot (120)](https://user-images.githubusercontent.com/101470912/161826745-a3cd839e-6fd3-4522-84ab-43dca4f841be.png)
+
 
 ## Membuat Sidebar Widget
 Kemudian selanjutnya menambahkan element lain dalam sidebar. 
-![gambar 120](screenshot/Screenshot%20(121).png
+![Screenshot (121)](https://user-images.githubusercontent.com/101470912/161826795-4237a7c1-19f9-4a72-9e42-b4a839c8502c.png)
 
-css
-![gambar 120](screenshot/Screenshot%20(123).png
+
+kemudian tambahkan css
+![Screenshot (123)](https://user-images.githubusercontent.com/101470912/161827074-8128a742-f469-4a90-9a79-225d2e956dd1.png)
+
 
 Hasilnya
-![gambar 120](screenshot/Screenshot%20(124).png
+![Screenshot (124)](https://user-images.githubusercontent.com/101470912/161827121-3c8156f1-ab77-4331-be98-c0996df6bb2e.png)
+
 
 ## Menambahkan Elemen lainnya pada Main Content
-![gambar 120](screenshot/Screenshot%20(126).png
 
-css
-![gambar 120](screenshot/Screenshot%20(128).png
+
+kemudian tambahkan css
+![Screenshot (128)](https://user-images.githubusercontent.com/101470912/161827330-ae537654-34af-4939-ad1c-78bca449ee60.png)
+
+
 
 Hasilnya
-![gambar 120](screenshot/Screenshot%20(129).png
+![Screenshot (129)](https://user-images.githubusercontent.com/101470912/161827283-204d2b2c-646c-48b3-9ab8-9f24837b676a.png)
+
 
 ## Menambahkan Content Artikel
-![gambar 120](screenshot/Screenshot%20(132).png
-css
-![gambar 120](screenshot/Screenshot%20(133).png
+![Screenshot (132)](https://user-images.githubusercontent.com/101470912/161827403-f311ca9e-b6d4-4150-939d-ce06647ea9f7.png)
+
+kemudian tambahkan css
+![Screenshot (133)](https://user-images.githubusercontent.com/101470912/161827478-7b0c8303-2fdd-40d5-90aa-8c075ae24c3b.png)
+
 
 hasilnya
-![gambar 120](screenshot/Screenshot%20(134).png
+![Screenshot (134)](https://user-images.githubusercontent.com/101470912/161827538-8f734a40-9718-47d5-aef2-29800813bbc7.png)
+ # terimakasih
+ ![download](https://user-images.githubusercontent.com/101470912/161827619-9f89fea0-5ee7-4df0-8574-235e84f0d08f.jpg)
+
 
 
 
