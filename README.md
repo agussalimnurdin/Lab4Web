@@ -63,40 +63,61 @@ kemudian hasilnya
 ![Screenshot (120)](https://user-images.githubusercontent.com/101470912/161826745-a3cd839e-6fd3-4522-84ab-43dca4f841be.png)
 
 
-## Membuat Sidebar Widget
-Kemudian selanjutnya menambahkan element lain dalam sidebar. 
-![Screenshot (121)](https://user-images.githubusercontent.com/101470912/161826795-4237a7c1-19f9-4a72-9e42-b4a839c8502c.png)
 
+## Mengatur Layout Main dan Sidebar
+![Screenshot (136)](https://user-images.githubusercontent.com/101470912/162580765-52a00ba1-48f8-421f-8918-44d015fd525d.png)
 
-kemudian tambahkan css
-![Screenshot (123)](https://user-images.githubusercontent.com/101470912/161827074-8128a742-f469-4a90-9a79-225d2e956dd1.png)
+![Screenshot (138)](https://user-images.githubusercontent.com/101470912/162580773-ff868c7f-16a2-4138-ad23-90c3263b6422.png)
 
-
-Hasilnya
-![Screenshot (124)](https://user-images.githubusercontent.com/101470912/161827121-3c8156f1-ab77-4331-be98-c0996df6bb2e.png)
-
-
-## Menambahkan Elemen lainnya pada Main Content
-
-
-kemudian tambahkan css
-![Screenshot (128)](https://user-images.githubusercontent.com/101470912/161827330-ae537654-34af-4939-ad1c-78bca449ee60.png)
-
-
-
-Hasilnya
-![Screenshot (129)](https://user-images.githubusercontent.com/101470912/161827283-204d2b2c-646c-48b3-9ab8-9f24837b676a.png)
-
-
-## Menambahkan Content Artikel
-![Screenshot (132)](https://user-images.githubusercontent.com/101470912/161827403-f311ca9e-b6d4-4150-939d-ce06647ea9f7.png)
-
-kemudian tambahkan css
-![Screenshot (133)](https://user-images.githubusercontent.com/101470912/161827478-7b0c8303-2fdd-40d5-90aa-8c075ae24c3b.png)
-
+![Screenshot (140)](https://user-images.githubusercontent.com/101470912/162580779-49534ddc-4b56-4737-a11c-ad96dc5cef9e.png)
 
 hasilnya
-![Screenshot (134)](https://user-images.githubusercontent.com/101470912/161827538-8f734a40-9718-47d5-aef2-29800813bbc7.png)
+![Screenshot (142)](https://user-images.githubusercontent.com/101470912/162580790-a9773b80-4347-440b-b019-6b49fa673d2b.png)
+
+Mengatur Footer 
+![Screenshot (144)](https://user-images.githubusercontent.com/101470912/162587213-0dbabd24-4d0d-406a-a3db-683b7af4d535.png)
+
+hasilnya
+![Screenshot (146)](https://user-images.githubusercontent.com/101470912/162587221-65d20aff-3c34-4532-adbd-dd6d2246a4a3.png)
+
+Menambahkan Elemen lainnya pada Main Content
+![Screenshot (148)](https://user-images.githubusercontent.com/101470912/162587273-d58e49a2-760a-4e4f-af66-3a6e25154046.png)
+
+![Screenshot (150)](https://user-images.githubusercontent.com/101470912/162587280-fe0676df-9112-483c-8f55-1f7445560526.png)
+
+![Screenshot (152)](https://user-images.githubusercontent.com/101470912/162587285-4968059e-5a0e-4a6d-ab66-525778de3ad2.png)
+
+![Screenshot (154)](https://user-images.githubusercontent.com/101470912/162587291-4c0e7e14-24d0-4106-958e-78555fd8e517.png)
+
+hasilnya
+![Screenshot (156)](https://user-images.githubusercontent.com/101470912/162587305-0121d827-a1a9-4b3c-903d-c194457e7576.png)
+
+Menambahkan Content Artikel
+![Screenshot (158)](https://user-images.githubusercontent.com/101470912/162587333-df990e68-ba81-461c-8a18-cb67543b151e.png)
+
+![Screenshot (160)](https://user-images.githubusercontent.com/101470912/162587338-d575c684-f174-48fb-bf70-7e4621377c2c.png)
+
+hasilnya
+![Screenshot (162)](https://user-images.githubusercontent.com/101470912/162587352-8664d1ba-1b0b-452f-ae43-24a2ea367bff.png)
+
+Pertanyaan dan Tugas Tambahkan layout untuk menu Contact
+![Screenshot (168)](https://user-images.githubusercontent.com/101470912/162587376-e82d90e5-d649-4b60-b63a-9f28e01b99db.png)
+![Screenshot (169)](https://user-images.githubusercontent.com/101470912/162587381-4445fc77-89ce-45d4-96e3-821c3fb1b1bc.png)
+
+hasilnya
+![Screenshot (170)](https://user-images.githubusercontent.com/101470912/162587390-68198439-2309-4c4b-ba9d-5ae6fa9d2d1b.png)
+
+menambahkan layout untuk menu About
+![Screenshot (183)](https://user-images.githubusercontent.com/101470912/162587429-36408232-d71b-4492-9b7a-32e8b7ae2ddf.png)
+
+![Screenshot (184)](https://user-images.githubusercontent.com/101470912/162587438-428c3b28-dac5-4c8b-95f8-289f220f7923.png)
+
+hasilnya
+![Screenshot (189)](https://user-images.githubusercontent.com/101470912/162587443-8a745b9f-06e3-4819-a1f5-194828af40e3.png)
+
+![Screenshot (191)](https://user-images.githubusercontent.com/101470912/162587449-8265e727-0065-438e-bdbd-db438f494cc2.png)
+
+
  # terimakasih
  ![download](https://user-images.githubusercontent.com/101470912/161827619-9f89fea0-5ee7-4df0-8574-235e84f0d08f.jpg)
 
